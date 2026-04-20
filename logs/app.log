@@ -1,0 +1,25 @@
+2026-04-20 10:47:53,336 | INFO | __main__ | Loaded dataset with 30 rows
+2026-04-20 10:48:29,655 | INFO | __main__ | Loaded dataset with 30 rows
+2026-04-20 10:51:57,049 | INFO | __main__ | Loaded dataset with 30 rows
+2026-04-20 10:51:57,053 | INFO | __main__ | Using stratified split based on intent labels
+2026-04-20 10:54:16,557 | INFO | __main__ | Loaded dataset with 30 rows
+2026-04-20 10:54:16,562 | INFO | __main__ | Using stratified split based on intent labels
+2026-04-20 10:57:04,903 | INFO | __main__ | Loaded dataset with 30 rows
+2026-04-20 10:57:04,911 | INFO | __main__ | Using stratified split based on intent labels
+2026-04-20 10:58:24,516 | INFO | app.main | Starting application
+2026-04-20 10:58:24,517 | INFO | app.inference | Loading vectorizer, models, and label encoders
+2026-04-20 10:58:32,476 | INFO | app.main | Shutting down application
+2026-04-20 11:01:34,266 | INFO | app.main | Starting application
+2026-04-20 11:01:34,266 | INFO | app.inference | Loading vectorizer, models, and label encoders
+2026-04-20 11:05:33,481 | INFO | app.inference | Generated predictions for 2 text(s)
+2026-04-20 11:06:36,024 | INFO | app.main | Shutting down application
+2026-04-20 11:06:42,892 | INFO | app.main | Starting application
+2026-04-20 11:06:42,892 | INFO | app.inference | Loading vectorizer, models, and label encoders
+2026-04-20 15:03:50,558 | INFO | app.inference | Generated predictions for 1 text(s)
+2026-04-20 15:04:30,399 | INFO | app.inference | Generated predictions for 2 text(s)
+2026-04-20 15:04:35,101 | INFO | app.inference | Generated predictions for 2 text(s)
+2026-04-20 15:04:36,605 | INFO | app.inference | Generated predictions for 2 text(s)
+2026-04-20 15:04:37,933 | INFO | app.inference | Generated predictions for 2 text(s)
+2026-04-20 15:12:23,931 | INFO | app.main | Shutting down application
+2026-04-20 15:12:40,096 | INFO | app.main | Starting application
+2026-04-20 15:12:40,096 | INFO | app.inference | Loading vectorizer, models, and label encoders

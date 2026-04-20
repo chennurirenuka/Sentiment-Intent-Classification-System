@@ -1,0 +1,31 @@
+text,intent,sentiment
+I cannot log in to my laptop after changing my password,access_issue,negative
+My VPN keeps disconnecting every few minutes,network_issue,negative
+The latest invoice amount looks incorrect,billing_issue,negative
+Please add export to Excel in the dashboard,feature_request,neutral
+The application crashes when I upload a PDF,bug_report,negative
+How do I update my phone number in my profile,general_query,neutral
+Thank you team the issue was fixed quickly,general_query,positive
+Amazing support I got access back within minutes,general_query,positive
+I am unable to access shared drive folders,access_issue,negative
+Internet is very slow in the office today,network_issue,negative
+Please enable dark mode in the portal,feature_request,neutral
+Why was I charged twice this month,billing_issue,negative
+System shows error when I submit the leave form,bug_report,negative
+Can you help me reset my MFA device,access_issue,neutral
+The service is working fine now thanks,general_query,positive
+I need the report download option in CSV format,feature_request,neutral
+My account is locked again this is frustrating,access_issue,negative
+Payment receipt is missing from billing history,billing_issue,negative
+WiFi is unstable on the third floor,network_issue,negative
+The app freezes on the loading screen,bug_report,negative
+Can you share the steps to change profile picture,general_query,neutral
+Really happy with the quick response from support,general_query,positive
+The password reset link is not working,access_issue,negative
+Please add role based access controls,feature_request,neutral
+My reimbursement amount is not reflected in payroll,billing_issue,negative
+Teams call quality is poor and keeps dropping,network_issue,negative
+The portal throws a 500 error on login,bug_report,negative
+What is the process to raise a hardware request,general_query,neutral
+Thanks the VPN issue is resolved now,general_query,positive
+I still cannot sign in after multiple attempts,access_issue,negative
